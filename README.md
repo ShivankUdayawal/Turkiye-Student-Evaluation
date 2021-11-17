@@ -1,5 +1,7 @@
 # Turkiye-Student-Evaluation
 
+![](https://github.com/ShivankUdayawal/Turkiye-Student-Evaluation/blob/main/Data%20Visualization/01.jpg)
+
 ## An Unsupervised Learning Problem
 
 ### Problem 
@@ -77,3 +79,15 @@ This dataset is based on an evaluation form filled out by students for different
 
  Q1-Q28 are all Likert-type, meaning that the values are taken from {1,2,3,4,5}
  
+ 
+ ![](https://github.com/ShivankUdayawal/Turkiye-Student-Evaluation/blob/main/Data%20Visualization/02.jpg)
+ 
+ ![](https://github.com/ShivankUdayawal/Turkiye-Student-Evaluation/blob/main/Data%20Visualization/03.jpg)
+ 
+ ![](https://github.com/ShivankUdayawal/Turkiye-Student-Evaluation/blob/main/Data%20Visualization/04.jpg)
+ 
+ ![](https://github.com/ShivankUdayawal/Turkiye-Student-Evaluation/blob/main/Data%20Visualization/05.jpg)
+ 
+ ![](https://github.com/ShivankUdayawal/Turkiye-Student-Evaluation/blob/main/Data%20Visualization/06.jpg)
+ 
+ ![](https://github.com/ShivankUdayawal/Turkiye-Student-Evaluation/blob/main/Data%20Visualization/07.jpg)
